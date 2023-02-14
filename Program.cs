@@ -30,7 +30,7 @@ namespace Exercise_4._8
 
 			for (int i = 0; i < x; i++)
 			{
-				sum++;
+				//sum++;
 				for (int j = 0; j < y; j++)
 				{
 					str[i, j] = rand.Next(10);
